@@ -1,5 +1,8 @@
 # Exercises for GenAI Developers
 
+![Generated Image September 04, 2025 - 6_56AM](https://github.com/user-attachments/assets/4a631363-8831-4cfe-8bdb-2526e64322b0)
+
+
 A practical collection of hands-on exercises focused on mastering LangChain fundamentals. Learn to build AI applications using completion models, chat models, prompt templates, and chat prompt templates with popular LLM providers.
 
 ## Purpose
